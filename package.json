@@ -1,0 +1,15 @@
+{
+  "name": "eivindfjeldstad-insert",
+  "description": "easy element insertion",
+  "version": "0.0.1",
+  "keywords": [
+    "insert",
+    "before",
+    "after",
+    "prepend",
+    "append"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
